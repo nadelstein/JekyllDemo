@@ -30,8 +30,8 @@ github_username:  nadelstein
 
 # Build settings
 markdown: kramdown
-#theme: minima
-remote_theme: nadelstein/feeling-responsive
+theme: leap-day
+#remote_theme: nadelstein/feeling-responsive
 gems:
   - jekyll-feed
 plugins:
